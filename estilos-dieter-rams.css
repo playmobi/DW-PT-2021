@@ -1,0 +1,43 @@
+/* siempre empezar con un body */
+
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.tablas {
+    display: grid;
+    grid-template: repeat(2, 1fr) / repeat(2, 1fr); 
+    height: 800px;
+}
+
+.articulo {
+    padding: 15px;
+}
+
+
+.articulo-flex 
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+/* aqui todo esta alineado al centro, entonces se tiene que expandir, se debe integrar la parte de "justify-content" */
+justify-content: space-around;
+}
+
+
+
+@media (max-width: 425px) {
+
+/* si se pasa de 425 px "aqui se tiene que aplicar las columnas" */
+
+    /* aqui se inserta otra llave para indicar que quieres que se ajuste, que en este caso sería tablas lo que se va a meter a media query para correecióm */
+
+    .tablas {
+      grid-template: repeat(4, 1fr) / 1fr;
+
+
+}
+

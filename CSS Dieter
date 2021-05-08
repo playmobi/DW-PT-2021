@@ -1,0 +1,128 @@
+.active {
+}
+.articulo {
+}
+.articulo-flex {
+}
+.badge {
+}
+.badge-light {
+}
+.badge-secondary {
+}
+.bg-dark {
+}
+.blockquote {
+}
+.blockquote-footer {
+}
+.btn {
+}
+.btn-outline-success {
+}
+.btn-primary {
+}
+.card {
+}
+.card-body {
+}
+.card-header {
+}
+.carousel {
+}
+.carousel-caption {
+}
+.carousel-control-next {
+}
+.carousel-control-next-icon {
+}
+.carousel-control-prev {
+}
+.carousel-control-prev-icon {
+}
+.carousel-indicators {
+}
+.carousel-inner {
+}
+.carousel-item {
+}
+.collapse {
+}
+.container {
+}
+.d-block {
+}
+.d-flex {
+}
+.d-md-block {
+}
+.d-none {
+}
+.disabled {
+}
+.dropdown {
+}
+.dropdown-divider {
+}
+.dropdown-item {
+}
+.dropdown-menu {
+}
+.dropdown-toggle {
+}
+.form-control {
+}
+.form-inline {
+}
+.header {
+}
+.inicial {
+}
+.justify-content-center {
+}
+.mb-0 {
+}
+.mr-auto {
+}
+.mr-sm-2 {
+}
+.my-2 {
+}
+.my-lg-0 {
+}
+.my-sm-0 {
+}
+.nav-item {
+}
+.nav-link {
+}
+.navbar {
+}
+.navbar-brand {
+}
+.navbar-collapse {
+}
+.navbar-dark {
+}
+.navbar-expand-lg {
+}
+.navbar-nav {
+}
+.navbar-toggler {
+}
+.navbar-toggler-icon {
+}
+.slide {
+}
+.spinner-grow {
+}
+.spinner-grow-sm {
+}
+.sr-only {
+}
+.tablas {
+}
+.text-info {
+}
+.w-100 {
+}
